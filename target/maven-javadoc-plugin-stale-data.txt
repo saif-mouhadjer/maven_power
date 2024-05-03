@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/s2/maven/power/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/s2/maven/power/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'power 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/s2/maven/power/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'power 1.0-SNAPSHOT API'
+bmt
+D:\s2\maven\power\src\main\java = 1714416922143
+D:\s2\maven\power\target\site\apidocs\allclasses-index.html = 1714768989243
+D:\s2\maven\power\target\site\apidocs\allpackages-index.html = 1714768989257
+D:\s2\maven\power\target\site\apidocs\copy.svg = 1714768989401
+D:\s2\maven\power\target\site\apidocs\element-list = 1714768989090
+D:\s2\maven\power\target\site\apidocs\help-doc.html = 1714768989364
+D:\s2\maven\power\target\site\apidocs\index-all.html = 1714768989305
+D:\s2\maven\power\target\site\apidocs\index.html = 1714768989320
+D:\s2\maven\power\target\site\apidocs\link.svg = 1714768989406
+D:\s2\maven\power\target\site\apidocs\member-search-index.js = 1714768989274
+D:\s2\maven\power\target\site\apidocs\module-search-index.js = 1714768989265
+D:\s2\maven\power\target\site\apidocs\overview-tree.html = 1714768989193
+D:\s2\maven\power\target\site\apidocs\package-search-index.js = 1714768989268
+D:\s2\maven\power\target\site\apidocs\script.js = 1714768989382
+D:\s2\maven\power\target\site\apidocs\search-page.js = 1714768989431
+D:\s2\maven\power\target\site\apidocs\search.html = 1714768989314
+D:\s2\maven\power\target\site\apidocs\search.js = 1714768989417
+D:\s2\maven\power\target\site\apidocs\stylesheet.css = 1714768989376
+D:\s2\maven\power\target\site\apidocs\tag-search-index.js = 1714768989277
+D:\s2\maven\power\target\site\apidocs\type-search-index.js = 1714768989271
